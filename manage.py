@@ -20,3 +20,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#  Commands to run app
+# python manage.py makemigrations user_data
+# python manage.py migrate
+# python manage.py runserver
